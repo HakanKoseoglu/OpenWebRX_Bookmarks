@@ -1,0 +1,7 @@
+[
+    {
+        "name": "BBC Radio 4",
+        "frequency": 94400000,
+        "modulation": "wfm"
+    }
+]

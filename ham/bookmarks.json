@@ -1,0 +1,263 @@
+[
+    {
+        "name": "2M Calling",
+        "frequency": 145500000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "6m Int",
+        "frequency": 50100000,
+        "modulation": "usb"
+    },
+    {
+        "name": "6m PSK",
+        "frequency": 50305000,
+        "modulation": "usb"
+    },
+    {
+        "name": "6m Call",
+        "frequency": 51510000,
+        "modulation": "usb"
+    },
+    {
+        "name": "V16",
+        "frequency": 145200000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V17",
+        "frequency": 145212500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V18",
+        "frequency": 145225000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V19",
+        "frequency": 145237500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V20",
+        "frequency": 145250000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V21",
+        "frequency": 145262500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V22",
+        "frequency": 145275000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V23",
+        "frequency": 145287500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V24",
+        "frequency": 145300000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V25",
+        "frequency": 145312500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V16",
+        "frequency": 145325000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V17",
+        "frequency": 145337500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V28",
+        "frequency": 145350000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V29",
+        "frequency": 145362500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V30",
+        "frequency": 145375000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V31",
+        "frequency": 145387500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V32",
+        "frequency": 145400000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V33",
+        "frequency": 145412500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V34",
+        "frequency": 145425000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V35",
+        "frequency": 145437500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V36",
+        "frequency": 145450000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V37",
+        "frequency": 145462500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V38",
+        "frequency": 145475000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V39",
+        "frequency": 145487500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V40",
+        "frequency": 145500000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V41",
+        "frequency": 145512500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V42",
+        "frequency": 145525000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V43",
+        "frequency": 145537500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V44",
+        "frequency": 145550000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V45",
+        "frequency": 145562500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V46",
+        "frequency": 145575000,
+        "modulation": "fm"
+    },
+    {
+        "name": "V47",
+        "frequency": 145587500,
+        "modulation": "fm"
+    },
+    {
+        "name": "V48",
+        "frequency": 145600000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U272",
+        "frequency": 433400000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U273",
+        "frequency": 433412500,
+        "modulation": "fm"
+    },
+    {
+        "name": "U274",
+        "frequency": 433425000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U275",
+        "frequency": 433437500,
+        "modulation": "fm"
+    },
+    {
+        "name": "U276",
+        "frequency": 433450000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U277",
+        "frequency": 433462500,
+        "modulation": "fm"
+    },
+    {
+        "name": "U278",
+        "frequency": 433475000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U279",
+        "frequency": 433487500,
+        "modulation": "fm"
+    },
+    {
+        "name": "70cm Call",
+        "frequency": 433500000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U2781",
+        "frequency": 433512500,
+        "modulation": "fm"
+    },
+    {
+        "name": "U2782",
+        "frequency": 433525000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U2783",
+        "frequency": 433537500,
+        "modulation": "fm"
+    },
+    {
+        "name": "U2784",
+        "frequency": 433550000,
+        "modulation": "fm"
+    },
+    {
+        "name": "U2785",
+        "frequency": 433562500,
+        "modulation": "fm"
+    },
+    {
+        "name": "U2786",
+        "frequency": 433575000,
+        "modulation": "fm"
+    }
+
+]

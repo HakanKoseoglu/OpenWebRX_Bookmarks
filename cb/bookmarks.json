@@ -1,0 +1,452 @@
+[
+    {
+        "name": "UK01",
+        "frequency": 27601250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK02",
+        "frequency": 27611250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK03",
+        "frequency": 27621250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK04",
+        "frequency": 27631250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK05",
+        "frequency": 27641250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK06",
+        "frequency": 27651250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK07",
+        "frequency": 27661250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK08",
+        "frequency": 27671250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK09",
+        "frequency": 27681250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK10",
+        "frequency": 27691250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK11",
+        "frequency": 27701250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK12",
+        "frequency": 27711250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK13",
+        "frequency": 27721250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK14",
+        "frequency": 27731250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK15",
+        "frequency": 27741250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK16",
+        "frequency": 27751250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK17",
+        "frequency": 27761250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK18",
+        "frequency": 27771250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK19",
+        "frequency": 27781250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK20",
+        "frequency": 27791250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK21",
+        "frequency": 27801250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK22",
+        "frequency": 27811250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK23",
+        "frequency": 27821250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK24",
+        "frequency": 27831250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK25",
+        "frequency": 27841250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK26",
+        "frequency": 27851250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK27",
+        "frequency": 27861250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK28",
+        "frequency": 27871250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK29",
+        "frequency": 27881250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK30",
+        "frequency": 27891250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK31",
+        "frequency": 27901250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK32",
+        "frequency": 27911250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK33",
+        "frequency": 27921250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK34",
+        "frequency": 27931250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK35",
+        "frequency": 27941250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK36",
+        "frequency": 27951250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK37",
+        "frequency": 27961250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK38",
+        "frequency": 27971250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK39",
+        "frequency": 27981250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK40",
+        "frequency": 27991250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK31",
+        "frequency": 27901250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK32",
+        "frequency": 27911250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK33",
+        "frequency": 27921250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK34",
+        "frequency": 27931250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK35",
+        "frequency": 27941250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK36",
+        "frequency": 27951250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK37",
+        "frequency": 27961250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK38",
+        "frequency": 27971250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK39",
+        "frequency": 27981250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "UK40",
+        "frequency": 27991250,
+        "modulation": "nfm"
+    },
+    {
+        "name": "EU01",
+        "frequency": 26965000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU02",
+        "frequency": 26975000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU03",
+        "frequency": 26985000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU04",
+        "frequency": 27005000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU05",
+        "frequency": 27015000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU06",
+        "frequency": 27025000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU07",
+        "frequency": 27035000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU08",
+        "frequency": 27055000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU09",
+        "frequency": 27065000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU10",
+        "frequency": 27075000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU11",
+        "frequency": 27085000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU12",
+        "frequency": 27105000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU13",
+        "frequency": 27115000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU14",
+        "frequency": 27125000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU15",
+        "frequency": 27135000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU16",
+        "frequency": 27155000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU17",
+        "frequency": 27165000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU18",
+        "frequency": 27175000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU19",
+        "frequency": 27185000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU20",
+        "frequency": 27205000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU21",
+        "frequency": 27215000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU22",
+        "frequency": 27225000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU23",
+        "frequency": 27255000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU24",
+        "frequency": 27235000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU25",
+        "frequency": 27245000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU26",
+        "frequency": 27265000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU27",
+        "frequency": 27275000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU28",
+        "frequency": 27285000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU29",
+        "frequency": 27295000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU30",
+        "frequency": 27305000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU31",
+        "frequency": 27315000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU32",
+        "frequency": 27325000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU33",
+        "frequency": 27335000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU34",
+        "frequency": 27345000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU35",
+        "frequency": 27355000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU36",
+        "frequency": 27365000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU37",
+        "frequency": 27375000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU38",
+        "frequency": 27385000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU39",
+        "frequency": 27395000,
+        "modulation": "usb"
+    },
+    {
+        "name": "EU40",
+        "frequency": 27405000,
+        "modulation": "usb"
+    }
+]
