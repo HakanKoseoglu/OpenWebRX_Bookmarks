@@ -1,10 +1,5 @@
 [
     {
-        "name": "2M Calling",
-        "frequency": 145500000,
-        "modulation": "nfm"
-    },
-    {
         "name": "6m Int",
         "frequency": 50100000,
         "modulation": "usb"
@@ -22,162 +17,162 @@
     {
         "name": "V16",
         "frequency": 145200000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V17",
         "frequency": 145212500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V18",
         "frequency": 145225000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V19",
         "frequency": 145237500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V20",
         "frequency": 145250000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V21",
         "frequency": 145262500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V22",
         "frequency": 145275000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V23",
         "frequency": 145287500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V24",
         "frequency": 145300000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V25",
         "frequency": 145312500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V16",
         "frequency": 145325000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
-        "name": "V17",
+        "name": "V27",
         "frequency": 145337500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V28",
         "frequency": 145350000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V29",
         "frequency": 145362500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V30",
         "frequency": 145375000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V31",
         "frequency": 145387500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V32",
         "frequency": 145400000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V33",
         "frequency": 145412500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V34",
         "frequency": 145425000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V35",
         "frequency": 145437500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V36",
         "frequency": 145450000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V37",
         "frequency": 145462500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V38",
         "frequency": 145475000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V39",
         "frequency": 145487500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
-        "name": "V40",
+        "name": "V40 Calling",
         "frequency": 145500000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V41",
         "frequency": 145512500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V42",
         "frequency": 145525000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V43",
         "frequency": 145537500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V44",
         "frequency": 145550000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V45",
         "frequency": 145562500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V46",
         "frequency": 145575000,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V47",
         "frequency": 145587500,
-        "modulation": "fm"
+        "modulation": "nfm"
     },
     {
         "name": "V48",
@@ -225,7 +220,7 @@
         "modulation": "fm"
     },
     {
-        "name": "70cm Call",
+        "name": "U280 Call",
         "frequency": 433500000,
         "modulation": "fm"
     },
@@ -259,5 +254,4 @@
         "frequency": 433575000,
         "modulation": "fm"
     }
-
 ]
